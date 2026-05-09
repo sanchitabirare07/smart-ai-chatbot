@@ -134,7 +134,8 @@ with st.sidebar:
     api_key = st.text_input(
         "API Key",
         type="password",
-        placeholder="sk-... or AIza...",
+        value=os.getenv("GROQ_API_KEY", ""),
+        placeholder="gsk_...",
         help="Your API key (not stored)"
     )
 
