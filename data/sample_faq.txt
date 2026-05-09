@@ -1,0 +1,80 @@
+COLLEGE & CUSTOMER SUPPORT — FREQUENTLY ASKED QUESTIONS
+==========================================================
+
+ADMISSIONS
+----------
+Q: What are the admission requirements?
+A: Applicants must have completed 10+2 (or equivalent) with a minimum of 50% aggregate marks. Science stream students need Physics, Chemistry, and Mathematics/Biology. Applications are accepted online through our portal from January to April each year.
+
+Q: How do I apply for admission?
+A: Visit our official website, click on "Apply Now", fill in the online application form, upload required documents (marksheets, photo, ID proof), and pay the application fee of ₹500 online. You will receive a confirmation email within 48 hours.
+
+Q: What is the last date for admission?
+A: The last date for admission applications is typically April 30th. Late applications may be considered on a case-by-case basis with a late fee of ₹200.
+
+Q: Are there any scholarships available?
+A: Yes, we offer merit-based scholarships for students scoring above 90% in their qualifying exams. Need-based financial aid is also available. Contact the financial aid office at financialaid@college.edu for details.
+
+COURSES & ACADEMICS
+-------------------
+Q: What courses are available?
+A: We offer undergraduate programs in Computer Science (B.Tech/B.Sc), Business Administration (BBA/B.Com), Arts & Humanities (BA), and Science (B.Sc). Postgraduate programs include MBA, MCA, M.Sc, and M.Tech.
+
+Q: What is the duration of the B.Tech program?
+A: The B.Tech program is a 4-year full-time program divided into 8 semesters. Each semester is approximately 6 months long with exams at the end.
+
+Q: How are exams conducted?
+A: Internal assessments are conducted throughout the semester, accounting for 40% of the total marks. The end-semester examination accounts for the remaining 60%. All exams are conducted on campus.
+
+Q: Can I change my course after enrollment?
+A: Course changes are permitted within the first 30 days of the academic year, subject to seat availability and approval from the academic committee. A fee of ₹1000 applies for course change requests.
+
+FEES & PAYMENTS
+---------------
+Q: What are the tuition fees?
+A: Annual tuition fees vary by program: B.Tech — ₹1,20,000/year; BBA/B.Com — ₹60,000/year; BA/B.Sc — ₹40,000/year; MBA — ₹1,80,000/year. Fees are subject to annual revision.
+
+Q: What are the payment methods accepted?
+A: We accept payments via Net Banking, UPI (GPay, PhonePe, Paytm), Credit/Debit Cards, and Demand Draft in favor of "College Name". Cash payments are not accepted above ₹2000 as per government guidelines.
+
+Q: Is there an EMI option for fee payment?
+A: Yes, EMI options are available in partnership with select banks. You can pay in 3 or 6 installments with a nominal processing fee. Contact the accounts department for more details.
+
+CAMPUS & FACILITIES
+-------------------
+Q: What are the library timings?
+A: The library is open Monday to Saturday from 8:00 AM to 9:00 PM. Sunday timings are 10:00 AM to 5:00 PM. During exam periods, the library remains open until 11:00 PM.
+
+Q: Is hostel accommodation available?
+A: Yes, separate hostels are available for boys and girls with a capacity of 500 students each. Facilities include AC/non-AC rooms, Wi-Fi, mess, laundry, and 24/7 security. Apply for hostel through the student portal.
+
+Q: What sports facilities are available?
+A: We have a fully equipped gym, cricket ground, basketball and volleyball courts, a 25-metre swimming pool, table tennis room, and indoor badminton courts.
+
+SUPPORT & CONTACT
+-----------------
+Q: What are the office hours?
+A: Administrative offices are open Monday to Friday from 9:00 AM to 5:00 PM and Saturday from 9:00 AM to 1:00 PM. The helpdesk is available 24/7 via email.
+
+Q: How do I contact student support?
+A: You can reach student support via: Email: support@college.edu | Phone: +91-1234-567890 | WhatsApp: +91-9876-543210 | In-person: Student Services Building, Room 101.
+
+Q: How do I reset my student portal password?
+A: Click "Forgot Password" on the login page, enter your registered email or roll number. A reset link will be sent to your email within 5 minutes. If you don't receive it, check spam or contact IT support at it@college.edu.
+
+Q: How do I get my transcripts or certificates?
+A: Submit a request through the student portal under "Documents & Certificates". Processing takes 5–7 working days. Certificates can be collected from the exam department or dispatched via courier for an additional fee.
+
+Q: What do I do in case of a grievance?
+A: Submit your grievance through the online grievance portal or email grievance@college.edu. All grievances are addressed within 10 working days. You may also visit the Student Welfare Officer in Room 205, Admin Block.
+
+IT & TECHNICAL SUPPORT
+-----------------------
+Q: How do I access the online learning portal?
+A: Visit lms.college.edu and log in using your student ID and default password (your date of birth in DDMMYYYY format). Change your password on first login.
+
+Q: The college Wi-Fi is not working. What should I do?
+A: Try disconnecting and reconnecting to the "CollegeNet" SSID. If the issue persists, restart your device. For ongoing issues, contact IT support at it@college.edu or visit the IT helpdesk in the Computer Center.
+
+Q: How do I install the required software for my course?
+A: Licensed software is available on the college intranet at intranet.college.edu/software. Log in with your student credentials to download. For installation help, visit the IT helpdesk.
