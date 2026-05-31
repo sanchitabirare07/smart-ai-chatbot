@@ -1,0 +1,69 @@
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Cut Off Marks For Academic Year 2020-2021
+Computer Engineering
+Sr. No. Category CET Score
+1 OPEN 88.70
+2 SC 70.08
+3 ST 59.61
+4 NT-1 79.45
+5 NT-2 73.25
+6 NT-3 81.57
+7 OBC 77.87
+8 DEFOPEN 38.31
+9 TFWS 92.32
+10 EWS 81.51
+Computer Science and Technology
+Sr. No. Category CET Score
+1 OPEN 75.36
+2 SC 20.21
+3 ST --------
+4 NT-1 64.99
+5 NT-2 --------
+6 NT-3 62.88
+7 OBC 5.66
+8 DEFOPEN 65.04
+9 TFWS 89.39
+10 EWS 48.49
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Information Technology
+Sr. No. Category CET Score
+1 OPEN 79.66
+2 SC 47.58
+3 ST --------
+4 NT-1 28.54
+5 NT-2 60.12
+6 NT-3 49.73
+7 OBC 69.83
+8 DEFOPEN --------
+9 TFWS 86.76
+10 EWS 65.04
+Electronics and Communication
+Sr. No. Category CET Score
+1 OPEN 5.05
+2 SC --------
+3 ST --------
+4 NT-1 --------
+5 NT-2 --------
+6 NT-3 --------
+7 OBC --------
+8 DEFOPEN --------
+9 TFWS 65.14
+10 EWS --------
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Data Science
+Sr. No. Category CET Score
+1 OPEN 11.50
+2 SC --------
+3 ST --------
+4 NT-1 --------
+5 NT-2 --------
+6 NT-3 --------
+7 OBC --------
+8 DEFOPEN --------
+9 TFWS 41.74
+10 EWS 49.00
+Dr. Sanjay S, Pawar
+Principal

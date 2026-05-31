@@ -1,0 +1,989 @@
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+(umit.ac.in) 
+SNDT Women's University 
+(Sndt.digitaluniversity.ac) 
+Syllabus B. Tech. 
+IT Syllabus 
+WOMEA 
+SNIT 
+A'S UN 
+Estb: 1916 
+SNOT WOMEN'S UNIVERSITY 
+HITHAI THACHE METALHAR 
+SNDT Women's University 1, Nathibai Thackersey Road, Mumbai 400 020 
+(Applicable to students taking admission in and after 2019) 
+Credit Definition 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty Technology (Undergraduate Course) -BTech 
+1 Hr. Lecture (L) per week 
+1 credit 
+1 Hr. Tutorial (T) per week 
+1 credit 
+Proposed in Jan 
+2020 
+1 Hr. Practical (P) per week 
+2 Hours Practical(Lab)/week 
+0.5 credits 
+1 credit 
+Course code and Definition: 
+Course Code 
+Definitions 
+L 
+T 
+Р 
+D 
+TP 
+TW 
+P/V 
+BSC 
+ESC 
+HSMC 
+PCC 
+PEC 
+OEC 
+LC 
+MC 
+PROJ 
+Lecture 
+Tutorial 
+Practical 
+Duration of Paper 
+Term Paper 
+Term Work 
+Practical/Viva 
+Basic Science Courses 
+Engineering Science Courses 
+Humanities and Social Sciences including Management courses 
+Professional core courses 
+Professional Elective courses 
+Open Elective courses 
+Laboratory course 
+Mandatory courses 
+Project 
+Semester I 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+Hours Per 
+Category and Course Code 
+Course Title 
+Week 
+Cr 
+Ꭰ 
+TP TW 
+P/V Total 
+L 
+TP 
+Basic Science course 
+(BSC101) 
+Applied Science (Physics and Chemistry) 
+3 
+1 
+4.0 
+2.5 
+75 
+25 
+100 
+Basic Science course 
+Mathematics -I 
+3 
+1 
+4.0 
+2.5 
+75 
+25 
+100 
+(BSC103) 
+Engineering Science 
+Basic Electrical Engineering 
+3 
+1 
+4.0 
+2.5 
+75 
+25 
+100 
+Courses(ESC101) 
+Engineering Science 
+Engineering Graphics & 
+1 
+1.0 
+1.0 
+25 
+25 
+25 
+Courses(ESC102) 
+Design 
+Applied Science Lab 
+3 
+1.5 
+- 
+25 
+25 
+PV 
+50 
+2 
+1.0 
+25 
+PV 
+25 
+Mandatory Course 
+Basic Electrical Engineering 
+Lab 
+Engineering Graphics & Design Lab 
+Induction programme 
+Total 
+- 
+4 
+2.0 
+25 
+25 V 
+3 weeks no credits 
+- 
+10 
+03 
+9 
+17.5 
+509 
+450 
+Semester II 
+USHA MITTAL INSTITUTE OF TECHNOLOGY SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+Category and 
+Course Code 
+Course Title 
+Hours Per 
+Week 
+Cr 
+Ꭰ 
+· 
+TP 
+TWP/V Total 
+L 
+T 
+Р 
+Basic Science courses 
+(BSC 102) 
+Applied Science (Physics and Chemistry) 
+3 
+1 
+4.0 2.5 
+75 
+25 
+100 
+Basic Science course (BSC104) 
+Mathematics -II 
+3 
+1 
+4.0 
+2.5 
+75 
+25 
+100 
+Engineering Science 
+Courses(ESC103) 
+Engineering Science Courses(ESC104) 
+Programming for Problem 
+3 
+3.0 
+2.5 
+75 
+25 
+100 
+Solving 
+Workshop/Manufacturing 
+1 
+1.0 
+1.0 25 
+25 
+Practices 
+Humanities and Social 
+English 
+2 
+2.0 
+1.0 
+40 
+10 
+50 
+Sciences including 
+Management courses (HSMC101) 
+Applied Science Lab 
+3 
+1.5 
+25 
+25 
+PV 
+50 
+Programming for Problem 
+4 
+2.0 
+25 
+25 
+PV 
+50 
+Solving Lab 
+Workshop/Manufacturing 
+4 
+2.0 
+25 
+25 
+PV 
+50 
+Practices Lab 
+English Practical 
+2 
+1.0 
+25 
+25 
+Mandatory Course 
+Environmental Sciences 
+2 
+0 
+2.0 50 
+50 
+Total 
+14 
+2 
+13 
+20.5 
+600 
+*Environmental Sciences is a mandatory credit less course in which the students will be required to get passing marks in the main exam 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+SCHEME: Semester III 
+Category and Code 
+Course title 
+Hours per 
+Cr 
+Ꭰ 
+Week 
+TP T 
+W 
+P/V Total 
+L 
+T 
+Р 
+Engineering Science 
+Analog Electronic Circuits 
+3 
+0 
+3 
+25 
+2.5 75 
+100 
+Course ESC 301 
+Professional 
+Data structure & 
+3 
+0 
+3 
+2.5 
+75 
+25 
+25 
+100 
+Core Courses 
+PCC-CS 301 
+Professional 
+Algorithms 
+Digital 
+3 
+0 
+3 
+Core Courses 
+Electronics 
+25 
+2.5 
+175 
+25 
+100 
+ESC 302 
+Basic Science course 
+BSC 301 
+Mathematics-III 
+2 
+0 
+0 
+0 
+2 
+1.5 
+50 
+50 
+(Probability and Statistics) 
+Analog Electronic Circuits 
+4 
+25 
+25 
+2 
+PV 
+50 
+Lab 
+Data structure & 
+4 
+25 
+25 
+Algorithms Lab 
+Digital 
+2 
+PV 
+50 
+4 
+25 
+25 
+2 
+PV 
+50 
+Electronics Lab 
+IT Workshop (Sci 
+4 
+25 
+25 
+2 
+PV 
+50 
+Lab/MATLAB) Lab 
+Total 
+SCHEME: Semester IV 
+11 
+0 
+16 
+19 
+575 
+Category and Code 
+Course title 
+Hours per Week 
+C 
+Ꭰ 
+TP 
+TW P/V Total 
+r 
+L T P 
+Professional Core Courses PCC-CS401 Engineering Science 
+Course PCC-CS 402 
+Discrete Mathematics 
+3 1 0 
+4 
+2.5 75 
+25 
+100 
+Computer Organization & Architecture 
+3 0 
+I 
+3 
+2.5 75 
+25 
+100 
+Professional Core Courses 
+PCC-CS403 
+Operating Systems 
+3 0 
+3 
+2.5 75 
+25 
+100 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+Professional Core Courses PCC- CS404 
+Humanities & Social 
+Design & Analysis of Algorithms 
+3 
+0 
+3 
+2.5 75 
+25 
+100 
+Management 1 (Finance & 
+3 
+0 
+0 3 
+Sciences including Management courses 
+Accounting) 
+2.5 75 
+25 
+100 
+HSMC 401 
+Mandatory Courses MC 
+Constitution of India 
+0 
+25 
+25 
+50 
+Computer Organization & 
+4 
+25 
+25 
+PV 
+2 
+50 
+Architecture Lab 
+Operating Systems Lab 
+4 
+25 
+25 
+PV 
+2 
+50 
+Design & Analysis of 
+4 
+25 
+25 
+PV 
+Algorithms Lab 
+2 
+50 
+Total 
+15 1 
+12 22 
+700 
+NOTE: Subject "Constitution of India" is non credit subject, Passing is mandatory, A total of 16 
+hours needs to be completed. 
+Humanities Elective: $MOOC/ Swayam based course Certificate has to be provided by 
+individual students to get evaluated. 
+Category Basic Science Course 
+Course 
+Applied Science - I (Physics & Chemistry) 
+title 
+Scheme 
+L 
+T 
+P 
+Credit 
+Semester I 
+and Credits 
+3 
+1 
+4 
+Pre-requisit 
+es (if any) 
+Course Objective 
+- 
+The concepts developed in this course will aid in quantification of several concepts in chemistry and physics that have been introduced at the 10+2 levels in schools. Technology is being increasingly based on the electronic, atomic and molecular level modifications. Quantum theory is more than 100 years old and to understand phenomena at nanometer levels, one has to base the description of all chemical processes at molecular levels. The course will enable the student to: 
+Learn the basics of electromagnetism. 
+Analyse microscopic chemistry in terms of atomic and molecular orbitals and energy level diagrams. 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+SCHEME: Semester V 
+Category and Code 
+Course title 
+Hours per Week 
+Cr 
+Ꭰ 
+TP TW 
+P/V 
+Total 
+L T Р 
+Engineering Science Course 
+Digital signal processing 
+300 3 
+2.5 
+75 
+25 
+100 
+Professional Core Courses PCC- 
+Database Management Systems 
+3 
+0 
+3 
+2.5 
+75 
+25 
+100 
+Professional Core Courses 
+PCC- 
+Professional Core Courses 
+Professional 
+Digital Image & Video Processing 
+3 
+0 
+0 
+3 
+2.5 
+75 
+25 
+100 
+Object Oriented 
+3 0 
+- 
+3 
+2.5 75 
+25 
+100 
+Programming 
+Elective-I 
+3 
+0 
+0 
+3 
+2.5 
+255 
+75 
+25 
+100 
+Elective courses 
+Mandatory 
+Essence of Indian 
+0 
+PV 
+25 
+25 
+50 
+Courses 
+Knowledge Tradition 
+Digital signal processing 
+2 
+1 
+PV 
+25 
+25 
+Lab 
+Database Management 
+2 
+1 
+PV 
+25 
+25 
+Systems Lab 
+Digital Image & Video 
+2 
+1 
+PV 
+- 
+25 
+25 
+Processing Lab 
+Object Oriented 
+2 
+1 
+PV 
+25 
+25 
+25 
+Programming Lab 
+Elective-I Lab 
+2 
+1 
+PV 
+25 
+25 
+MD 
+Minor Degree Subject 
+15 
+Total 
+0 10 
+20 
+675 
+Non-credit subject Passing Mandatory. A total of 16 hours needs to be completed. 
+Humanities Elective: MOOC based courses have to be completed. Certificate has to be provided by individual students to get evaluated. 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+SCHEME: Semester VI 
+Category and Code 
+Course title 
+Hours per Week 
+Cr D 
+TP 
+TW 
+P/V 
+Total 
+L 
+T 
+TP 
+Professional Core Courses PCC 
+Machine Learning 
+3 
+0 
+3 
+2.5 
+75 
+25 
+100 
+Professional Core Courses PCC 
+Computer Networks 
+3 
+0 
+3 
+2.5 
+75 
+25 
+100 
+Professional Elective courses 
+Elective-II 
+PEC 
+Professional Elective courses 
+Elective-III 
+3 
+0 
+0 
+3 
+2.5 
+75 
+25 
+100 
+3 
+0 
+0 
+3 
+2.5 
+75 
+25 
+100 
+PEC 
+Open Elective courses OEC 
+Open Elective-I 
+3 
+0 
+0 
+3 
+2.5 
+775 
+25 
+100 
+Object Oriented modelling 
+and Design 
+Project 
+Project-1 
+004 
+PV 
+2 
+50 
+50 
+PV 
+Machine Learning Lab 
+2 
+1 
+25 
+25 
+Computer Networks Lab 
+PV 
+2 
+1 
+25 
+25 
+PV 
+Elective-II Lab 
+2 
+1 
+25 
+25 
+PV 
+Elective-III Lab 
+2 
+1 
+25 
+25 
+PV 
+2 
+1 
+25 
+25 
+UML with Java Lab 
+MD 
+Minor Degree Subject 
+15 
+0 
+14 
+22 
+Total 
+Non-credit subject Passing Mandatory. A total of 16 hours needs to be completed. 
+Humanities Elective: MOOC based courses have to be completed. Certificate has to be provided by individual students to get evaluated. 
+675 
+USHA MITTAL INSTITUTE OF TECHNOLOGY SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Elective I 
+Elective II 
+Elective 
+III 
+Elective IV 
+Elective V 
+Elective 
+VI 
+Software 
+Engineering 
+Artificial 
+Intelligence 
+Internet of Cryptographic 
+Cloud 
+Computati 
+Things 
+and network 
+Computing 
+Security 
+Web and 
+Internet 
+web Data 
+Mining 
+Soft 
+computing 
+Human computer interaction 
+Parallel and 
+distributed 
+algorithm 
+Information 
+Retrieval 
+Multi Agent Intelligence 
+Optimizatio Quantum 
+n 
+computing 
+Enterprise architecture 
+Techniques 
+onal Data 
+Analytics 
+Ad-Hoc 
+sensor 
+Network 
+High Performan 
+ce 
+Computin 
+g 
+Open Elective-I 
+Object Oriented modelling and Designs 
+Introduction to 
+Philosophical 
+Thoughts 
+Open Elective-II 
+soft skill and 
+Interpersonal Communication 
+Human Resource Development and Organizational Behavior 
+Open Elective-III 
+History of Science and Engineering 
+Comparative Study 
+of Literature 
+Open Elective-IV 
+Economic Polices in 
+India 
+Cyber 
+Law 
+and ethics 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+SCHEME: Semester VII 
+Category and Code 
+Course title 
+Hours per Week 
+Cr 
+D 
+TP 
+TW 
+P/V 
+Total 
+L T P 
+Professional Elective courses PEC 
+Elective-IV (Cryptography 3 
+0 
+3 
+2.5 75 
+25 
+100 
+and Network Security) 
+Professional Elective 
+Elective-V (Cloud 
+3 
+0 
+3 
+2.5 
+75 
+25 
+100 
+courses PEC 
+Professional Elective 
+courses PEC 
+Data analytics) 
+Professional Core Courses 
+Digital Marketing 
+PCC 
+Computing) 
+Elective-VI (Computational 3 
+3003 
+3003 
+2.5 75 
+25 
+25 
+100 
+2.5 
+75 
+25 
+100 
+Humanities & Social 
+Humanities II (Technical 
+3 
+0 
+0 
+3 
+2.5 75 
+25 
+100 
+Sciences including 
+Communication and 
+Management courses 
+Professional Ethics) 
+Project 
+Project-II 
+0 
+0 
+8 
+4 
+100 
+100 
+Elective-IV (Cryptography and Network Security) Lab 
+Elective-V (Cloud 
+Computing) Lab 
+2 
+1 
+25 
+25 
+25 
+2 
+1 
+25 
+25 
+Elective-VI (Data analytics 
+2 
+1 
+25 
+25 
+Lab) 
+Total 
+15 
+0 
+14 
+22 
+675 
+龍日 
+USHA MITTAL INSTITUTE OF TECHNOLOGY SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+SCHEME: Semester VIII 
+Category and Code 
+Course title 
+Hours per Week 
+Cr Ꭰ 
+TP 
+TW 
+P/ 
+Total 
+V 
+LTP 
+Internship 
+Open Elective courses OEC 
+Open Elective-I 
+(Geospatial Data 
+Project 
+Processing Technologies) 
+Project-III 
+Total 
+I 
+I 
+4 
+0 
+50 
+50 
+100 
+0 
+25 
+25 
+50 
+50 
+32 
+16 
+- 
+200 
+200 
+400 
+0 0 
+32 
+20 
+550 
+Under Internship, the Student should pursue an internship program of minimum 4 weeks with a company,expected contact hours in industry 160 to 180hrs. 
+• The students undergoing such a program include compulsory industrial training of 4 credits, by the end of the eighth semester. 
+• Internships can be in offline or online mode. 
+Every student is required to prepare a file containing documentary proofs of the activities done by her in an industry. 
+• Weekly progress report should be mailed to faculty mentor and industry supervisor. The student will have to submit the internship joining letter, daily attendance record a detailed report and presentation and completion certificate from industry by the end of semester 
+Students should maintain a handwritten internship dairy(include daily attendance and daily progress report) signed by industry supervisor. 
+• Students undergo industrial training at the concerned Industry / Organization. In-between Faculty Member(s) evaluate(s) the performance of students once/twice 
+USHA MITTAL INSTITUTE OF TECHNOLOGY SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+and Evaluation Report of the students is submitted in the department with the consent of Industry persons/Trainers. 
+• Internship can be extended for PROJECT III with permission from the institute. 
+• Internship evaluation and Project III evaluation are separate. 
+Non-credit subject Passing Mandatory. A total of 16 contact hours needs to be completed. Non Credit course, Report of outcome based case studies will be evaluated as continuous 
+assessment 
+Elective I 
+Elective II 
+Elective 
+III 
+Elective IV 
+Elective V 
+Elective 
+VI 
+Software 
+Engineering 
+Artificial Intelligent 
+IOT 
+Cryptographic and network Security 
+Cloud Computing 
+Computatio nal Data 
+analytics 
+Neural 
+Networks 
+Data 
+Mining 
+Soft 
+computing 
+Human computer interaction 
+Parallel and 
+Ad-Hoc 
+and Deep 
+distributed algorithm 
+sensor 
+Network 
+Learning 
+Multi-agent 
+Intelligent 
+Information 
+Retrieval 
+Multi-agent Quantum 
+Enterprise High 
+Intelligent 
+Architecture 
+computing 
+Performan 
+ce 
+Computin 
+g 
+Open Elective-I 
+Open Elective-II 
+Open Elective-III 
+Open Elective-IV 
+Object 
+oriented 
+Technical 
+History of Science and Geospatial Data 
+modelling and design 
+Communication 
+Engineering 
+Processing 
+and Professional 
+Ethics 
+Technologies 
+Introduction to 
+Philosophical 
+Thoughts 
+Human Resource 
+Comparative Study 
+Cyber law and Ethics 
+Development and 
+of Literature 
+Organizational Behavior 

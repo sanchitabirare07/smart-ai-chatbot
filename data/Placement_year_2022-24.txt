@@ -1,0 +1,195 @@
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Students Placed in the
+Academic Year 2021-22
+Sr. No Name of Student Oragnization Placed in Package in LPA Branch
+1 Priyanka Anil Patil Accenture 4.5 CST
+2 Shikha Virender Chandel Accenture 4.5 CST
+3 Megha Manog Menon Accenture 4.5 ENC
+4 Tejaswini Anil kale Accenture 4.5 EE
+5 Salony Mahesh Arora Accenture 4.5 EE
+6 Anushka Kamble Amazon Web Services 7.7 EE
+7 Gauraja Rohidas Deo Amdocs 5 IT
+8 Sneha Suresh Panicker Amdocs 5 IT
+9 Shruti Bhimanna Kure Amdocs 5 IT
+10 Kavita Yadav Amdocs 5 IT
+11 Anjali Maurya Amdocs 5 ENC
+12 Utkarsha Kulkarni Amdocs 5 ENC
+13 Brinda Bhanderi Amdocs 5 ENC
+14 Vaishnavi Ashok Sawalkar Atos 3.1 CST
+15 Mahima Raina Atos 3.1 CST
+16 Ruchika Samal Atos 3.1 IT
+17 Nikita Shetty Atos 3.1 IT
+18 Dhruvi Dave Atos 3.1 IT
+19 Shraddha Tambe Atos 3.1 ENC
+20 Gauri Vishwakarma Atos 3.1 ENC
+21 Dhanshree Vinayak Parab Atos 3.1 ENC
+22 Soniya Gawade Bank Of America 6.45 CST
+23 Anjali Maruti Jadhav Bank Of America 6.45 CST
+24 Ranjini Kishen Kumar Bank Of America 6.45 CST
+25 Sakshi Sachin Pansare Bank Of America 6.45 CST
+26 Sakshi Rajesh Sinha Bank Of America 6.45 CST
+27 Divecha Dhanashree Jaydev Bank Of America 6.45 CST
+28 Harshada Kiran Kulkarni Bank Of America 6.45 CST
+29 Ritika Hariom Sharma Bank Of America 6.45 CST
+30 Pooja Sanjiv Vichare Bank Of America 6.45 CST
+31 Snehal Jitendra Urankar Bank Of America 6.45 CST
+32 Mital Krushna Donadkar Bank Of America 6.45 CST
+33 Kamble Renu Yashvant Bank Of America 6.45 IT
+34 Vaishali Vijay Kharat Bank Of America 6.45 IT
+35 Kesha Pradipkumar Chavda Bank Of America 6.45 IT
+36 Rutuja Sanjay Mane Bank Of America 6.45 IT
+37 Shrushti Mallikarjun Mandolikar Bank Of America 6.45 IT
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Sr. No Name of Student Oragnization Placed in Package in LPA Branch
+38 Purao Sanika Suhas Bank Of America 6.45 IT
+39 Shriya Sanjay Singh Bank Of America 6.45 IT
+40 Sakshi Kiran Dhanu Bank Of America 6.45 IT
+41 Shamika Subodh Karnik Bank Of America 6.45 IT
+42 Shivani Bhuvaneshwar Patil Bank Of America 6.45 IT
+43 Srushti Ajay Raul Bank Of America 6.45 IT
+44 Sahithi Shetty Bank Of America 6.45 IT
+45 Kirti Kesarwani Bank Of America 6.45 IT
+46 Manisha Subhash Pradhan Bank Of America 6.45 IT
+47 Arti Patil Bank Of America 6.45 IT
+48 Sneha S Padhy Bank Of America 6.45 IT
+49 Mehwash Jalaluddin Shaikh Bank Of America 6.45 IT
+50 Mayuri Mane Bank Of America 6.45 IT
+51 Priya Bore Bank Of America 6.45 CST
+52 Mukti Kalsekar Bank Of America 6.45 CST
+53 Shweta Satish Shinkar Bank Of America 6.45 CST
+54 Aayushi Mehta Bank Of America 6.45 CST
+55 Sushmitha Kadam Bank Of America 6.45 CST
+56 Ruchira Nehete Bank Of America 6.45 CST
+57 Amisha Paralkar Bank Of America 6.45 CST
+58 Harshada Bapu Jadhav Bank Of America 6.45 IT
+59 Trupti Ingavale Bank Of America 6.45 IT
+60 Supriya Lawate Bank Of America 6.45 IT
+61 Utkarsha Chaudhari Bank Of America 6.45 IT
+62 Shubhangi mangesh shirke Bank Of America 6.45 CST
+63 Saloni Pathak Bank Of America 6.45 CST
+64 Aparna Rajaram Patil Bank Of America 6.45 CST
+65 Sahithi Shetty Bank Of America 6.45 IT
+66 Kirti Kesarwani Bank Of America 6.45 IT
+67 Manisha Subhash Pradhan Bank Of America 6.45 IT
+68 Arti Patil Bank Of America 6.45 IT
+69 Sneha S Padhy Bank Of America 6.45 IT
+70 Mehwash Jalaluddin Shaikh Bank Of America 6.45 IT
+71 Mayuri Mane Bank Of America 6.45 IT
+72 Priya Bore Bank Of America 6.45 CST
+73 Mukti Kalsekar Bank Of America 6.45 CST
+74 Shweta Satish Shinkar Bank Of America 6.45 CST
+75 Aayushi Mehta Bank Of America 6.45 CST
+76 Sushmitha Kadam Bank Of America 6.45 CST
+77 Ruchira Nehete Bank Of America 6.45 CST
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Sr. No Name of Student Oragnization Placed in Package in LPA Branch
+78 Amisha Paralkar Bank Of America 6.45 CST
+79 Harshada Bapu Jadhav Bank Of America 6.45 IT
+80 Trupti Ingavale Bank Of America 6.45 IT
+81 Supriya Lawate Bank Of America 6.45 IT
+82 Utkarsha Chaudhari Bank Of America 6.45 IT
+83 Shubhangi mangesh shirke Bank Of America 6.45 CST
+84 Saloni Pathak Bank Of America 6.45 CST
+85 Aparna Rajaram Patil Bank Of America 6.45 CST
+86 Rishali Rai Barclays 11.73 CST
+87 Anika Tibrewala Barclays 11.73 CST
+88 Rutuja Shukla Barclays 11.73 CST
+89 Sakshi Sawant Barclays 11.73 CST
+90 Siddhi Panchal Barclays 11.73 IT
+91 Satabdi Paul Bill Desk 6 CST
+92 Vidhi Mehta Bill Desk 6 ENC
+93 Snehal Dattatray Salunke Capgemini 4.5 CST
+94 Shalaka Rajesh Lahurikar Capgemini 4.5 CST
+95 Sakshi Sachin Pansare Capgemini 4.5 CST
+96 Disha Chandra Moolya Capgemini 4.5 CST
+97 Ashlesha Hansraj Shahare Capgemini 4.5 CST
+98 Madhura Kamalakar Nawghare Capgemini 4.5 CST
+99 Jagruti Sahebrao Patil Capgemini 4.5 CST
+100 Shruti Bhimanna Kure Capgemini 4.5 IT
+101 Srushti Ajay Raul Capgemini 4.5 IT
+102 Sanika Suhas Purao Capgemini 4.5 IT
+103 Sneha Suresh Panicker Capgemini 4.5 IT
+104 Sakshi Vivek Chinnawar Capgemini 4.5 IT
+105 Prachi Vilas Palkar Capgemini 4.5 IT
+106 Kinnari Dinesh Chango Capgemini 4.5 IT
+107 Gauraja Rohidas Deo Capgemini 4.5 IT
+108 Sayali Wangane Capgemini 7.5 IT
+109 Sakshi Harshad Kelkar Capgemini 4.5 EE
+110 Sampadha Zutshi Capgemini 4.5 EE
+111 Prachi Krishna Patil Capgemini 4.5 EE
+112 Shikha Chandel Cogoport 7 CST
+113 Sakshi Pansare Cogoport 7 CST
+114 Madhura Kamalakar Nawghare Colgate 7.24 CST
+115 Kajal Hake Colgate 7.24 CST
+116 Riya Sudam Bote Colgate 7.24 CST
+117 Tanvi Gharte Colgate 7.24 CST
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Sr. No Name of Student Oragnization Placed in Package in LPA Branch
+118 Vrushali Ingle Colgate 7.24 CST
+119 Yamini Barhate Colgate 7.24 IT
+120 Bhakti Panhale Colgate 7.24 IT
+121 Vaishnavi Tiwari Colgate 7.24 IT
+122 Nupur Rajesh Patel Deloitte US 7.6 CST
+123 Gayatri Sanjay Kolte Deloitte US 7.6 CST
+124 Aayushi Manoj Ratanghayra Deloitte US 7.6 IT
+125 Sakshi Vivek Chinnawar Deloitte US 7.6 IT
+126 Poulomi Aswani Deloitte US 7.6 IT
+127 Prachurya Mohanty Deloittee IN 7.6 CST
+128 Snehal Salunke Deloittee IN 7.6 CST
+129 Shalini Suresh Thever Deloittee IN 7.6 ENC
+130 Prachi Vilas Palkar Deloitte IN(Cyber) 6.2 IT
+131 Medha Bhat Deloitte IN(Cyber) 6.2 IT
+132 Nadar Jenefa Murugesan Deloitte IN(Cyber) 6.2 ENC
+133 Amisha Chakraborty Deloitte IN(Cyber) 6.2 ENC
+134 Shalaka Lahurikar Deloittee IN(A & IC) 6.2 CST
+135 Disha Chandra Moolya Deloittee IN(A & IC) 6.2 CST
+136 Sakshi Harshad Kelkar Deloittee IN(A & IC) 6.2 EE
+137 Anushka Kamble Deloittee IN(A & IC) 6.2 EE
+138 Shruti Mishra Deutsche Bank 19.63 CST
+139 Bhavya Prasad Deutsche Bank 19.63 CST
+140 Sakshi Grover Deutsche Bank 19.63 CST
+141 Kirti Pandey Deutsche Bank 19.63 CST
+142 Gudiya Pilare Deutsche Bank 19.63 CST
+143 Harshadha Kulkarni Deutsche Bank 19.63 CST
+144 Pooja Vichare Deutsche Bank 19.63 CST
+145 Niragi Masalia Fiserv 8 CST
+146 Priyanka Anil Patil Fiserv 8 CST
+147 Sayali Wangane Fiserv 8 IT
+148 Priyanka Anil Patil GE Aviation 9.5 CST
+149 Sayali Wangane GE Aviation 9.5 IT
+150 Utkarsha Bhosale Infosys 3.6 IT
+151 Shivani Baneraj Infosys 3.6 EE
+152 Ashwini Yamgar Infosys 3.6 EE
+153 Asmita Sah Infosys 3.6 ENC
+154 Samraddhni Patil JP Morgan & Chase 12 IT
+155 Sai Sleghna Bala Oracle 16.65 CST
+156 Kanchan Singh Oracle 16.65 CST
+157 Snehal Salunke Oracle 13.37 CST
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+Sr. No Name of Student Oragnization Placed in Package in LPA Branch
+158 Aayushi Arora Oracle 16.65 IT
+159 Sakshi Pande Oracle 16.65 IT
+160 Anushka Thakkar Oracle 16.65 IT
+161 Saloni Singh Oracle 16.65 ENC
+161 Jagruti Sahebrao Patil TCS 3.5 CST
+162 Himani Ravindra Patil TCS 3.5 CST
+163 Kirti Jaikisan Kesarwani TCS 3.5 IT
+164 Pooja Dhokrat TCS 3.5 IT
+165 Shruti Bhimanna Kure TCS 3.5 IT
+166 Priyanka Prabhakar Shetty TCS 3.5 ENC
+167 Prachi Krishna Patil TCS 3.5 EE
+168 Anika Tibrewala VISA 15.89 CST
+169 Shikha Chandel Xoriant 5.5 CST
+170 Sakshi Kelkar Xoriant 5.5 EE
+171 Shweta Shinkar Zensar 4 CST
+172 Priyanka Prabhakar Shetty TCS 3.5 ENC
+173 Prachi Krishna Patil TCS 3.5 EE
+174 Anika Tibrewala VISA 15.89 CST
+175 Shikha Chandel Xoriant 5.5 CST
+176 Sakshi Kelkar Xoriant 5.5 EE
+177 Shweta Shinkar Zensar 4 CST

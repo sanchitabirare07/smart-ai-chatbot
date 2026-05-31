@@ -1,0 +1,211 @@
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+
+Students Placed in the 
+Academic Year 2023-24
+
+Sr.No	Name of Student	Organization Placed in	Branch
+1		Namshree Pravin Patil	Visa	CST
+2		Alam Sanjana N.	Visa	CST
+3		Kirtee Shree Sinha	Visa	IT
+4		Shruti Prakash Rane	Visa	CE
+5		Ankita Lubde	Deutsche Bank	CST
+6		Bhakti Sapariya	Deutsche Bank	CST
+7		Preet Ambhire	Deutsche Bank	IT
+8		Shruti Sanjay Rawool	Deutsche Bank	CE
+9		Bipasha Bhat	Deutsche Bank	CE
+10		Isha Thakur	JP Morgan Chase & Co. 	CE
+11		Chanchal Zope	Oracle PPO	CE
+12		Aparna Tiwari	Barclays (Pune)	CE
+13		Pratiksha Barman	Barclays (Pune)	CST
+14		Ruchita Ramesh Khadtare	Barclays (Pune)	IT
+15		Sargam Sah	Barclays (Pune)	CST
+16		Anuja Kokate	Barclays (Mumbai)	CE
+17		Kirtee Shree Sinha	Barclays (Mumbai)	IT
+18		Tanvi Naik	Deutsche Bank	CST
+19		Meghana Peethambaran	Deutsche Bank	IT
+20		Mrunmai Deepak Koli	Deloitte USI 	CST
+21		Kritika Satish Pandey	Deloitte USI 	CST
+22		Isha Lal	Deloitte USI 	CE
+23		Aqsa Shoeb	Deloitte USI 	CE
+24		Manjiri Nitin Pendbhaje	Deloitte USI 	IT
+25		Sakshi Rajesh Sawant	Deloitte USI 	IT
+26		Sritika Nitin Manjrekar	Deloitte USI 	IT
+27		Vidhi Prajapati 	Deloitte USI 	CE
+28		Jui Ashok Naik	Deloitte USI 	IT
+29		Soma Swapan Bera	Deloitte USI 	IT
+30		Sakshi Vijaykumar Bole	Deloitte USI 	IT
+31		Shruti Joshi	Deloitte USI 	CE
+32		Mansi Makrand Kortikar	Deloitte USI 	CE
+33		Vidhi Vishal Kodarlikar	Deloitte USI 	CE
+34		Akshata Pramod Chawan	Deloitte USI 	CE
+35		Siddhi Rajesh Zatke	Deloitte USI	IT
+36		Aditi Sonawane	Barclays	CE
+Sr.No	Name of Student	Organization Placed in	Branch
+37		Ayushi Sagar	Barclays	CE
+38		Krithika Saravanan	Barclays	CST
+39		Padiyar Ramsha Shahid	Barclays	IT
+40		Sakshi Zade	Barclays	CST
+41		Khushi Prajapati	Barclays	IT
+42		Ashwati Kunjiramanan	Barclays	ENC
+43		Rutuja Dighe	Deloitte IN 	IT
+44		Yashasvii Sawal	Deloitte IN 	IT
+45		Jhanvi khadke	Deloitte IN 	IT
+46		Shirley Castelino 	Deloitte IN 	CST
+47		Vishruti Sanjeev Bharadwaj	Deloitte IN 	CE
+48		Shivanjali Pratap Phalke	Deloitte IN 	CE
+49		Khushi Vishwakarma	Deloitte IN 	CE
+50		Ojaswi Gawankar	Deloitte IN 	CE
+51		Niksha Mahajan	Deloitte IN 	ENC
+52		Tanya Bhatia	Deloitte IN 	CE
+53		Mrunal Chavan	Deloitte IN 	DS
+54		Chandni Rana	Deloitte IN 	DS
+55		Chinmai Rane	Deloitte IN 	DS
+56		Yatra Bharkhada	Deloitte IN 	CE
+57		Aayushi Fating	Bank of America	CST
+58		Anjali Pathak	Bank of America	CST
+59		Gauri Raut	Bank of America	CST
+60		Mahima Pawar	Bank of America	CST
+61		Pooja Sawant	Bank of America	CST
+62		Pranjali Avhad	Bank of America	CST
+63		Sakshi Khadtale	Bank of America	CST
+64		Sakshi Zade	Bank of America	CST
+65		Sanskruti Khedekar	Bank of America	CST
+66		Shivani Mishra	Bank of America	CST
+67		Surbhi Raut	Bank of America	CST
+68		Ayushi Sagar	Bank of America	CE
+69		Kiran Sanjay Chaudhari	Bank of America	CE
+70		Mrunmayee Vasant Chavan	Bank of America	CE
+71		Priya Prashant Wadile	Bank of America	CE
+72		Roshni Hiralal Chaudhari	Bank of America	CE
+73		Sabah Yunus Shaikh	Bank of America	CE
+74		Sakshi Shreemant Gandage	Bank of America	CE
+75		Sakshi Subhash Pokle	Bank of America	CE
+76		Samruddhi Mithbawkar	Bank of America	CE
+77		Sayali Sanjay Nate	Bank of America	CE
+78		Siddhi Vilas Rane	Bank of America	CE
+79		Snigdha Dharmendra Patil	Bank of America	CE
+80		Shruti Kiran Chaudhari 	Bank of America	IT
+81		Rhea Sinha	Bank of America	IT
+82		Vibha Kotian	Bank of America	IT
+83		Janhavi Kamble 	Bank of America	IT
+84		Siddhi Sanjay Bhoir	Bank of America	IT
+Sr.No	Name of Student	Organization Placed in	Branch
+85		Shruti Bharati 	Bank of America	IT
+86		Shreya Tamhnakar 	Bank of America	IT
+87		Pranjali Shirode	Bank of America	IT
+88		Prajapati Khushi Jayantibhai 	Bank of America	IT
+89		Dumpeti Shirisha Bhaskar	Bank of America	IT
+90		Shaikh Mahek Sajid	Bank of America	IT
+91		Shaily Sinha	HSBC	CE
+92		Pranavi Kurkure	HSBC	CST
+93		Shaily Sinha	Publicis Sapient	CE
+94		Sakshi Hemant Wanare	Publicis Sapient	CE
+95		Vaishnavi Gagare	Publicis Sapient	CE
+96		Esha Gunjekar	Publicis Sapient	CST
+97		Akanksha Dube	Publicis Sapient	DS
+98		Sayali Ramdas Mengade	Publicis Sapient	DS
+99		Tanvi Chile	Publicis Sapient	IT
+100		Prathishta Mukesh Tamore	Publicis Sapient	IT
+101		Lekha Avinash Patil	Publicis Sapient	IT
+102		Soumya Iyer	IIDE	ENC
+103		Vishakha bharambe	IIDE	ENC
+104		Vedika Samant 	IIDE	DS
+105		Sadiya K	IIDE	CE
+106		Shalmali Patil 	IIDE	DS
+107		Nikita Sunita Mokal	IIDE	CST
+108		Saniya Shaikh	IIDE	CST
+109		Mansi marwal 	IIDE	CE
+110		Priti Singh 	IIDE	IT
+111		Abhidnya Vanmali 	IIDE	CE
+112		Neha Madanlal Gupta	Eduvanz	CST
+113		Ruchika Jamba	Eduvanz	CE
+114		Bhakti Dwivedi	CleverTap	CST
+115		Vaishnavi Kadam	Argon & Co. 	CST
+116		Sonal Mhatre	ExcelR	CE
+117		Chiranjivi Hole	ExcelR	DS
+118		Tanvee Joshi 	Accenture	CST
+119		Devika Parab	Accenture	IT
+120		Srushti Jadhav	Accenture	IT
+121		Sakshi Jadhav	Accenture	DS
+122		Vaishnavi More	Accenture	CE
+123		Rhea Malpekar 	NetWeaver	CST
+124		Vaishnavi Jadhav	NetWeaver	CST
+125		Mitu Guru 	NetWeaver	CST
+126		Bhakti Waghmare	NetWeaver	CE
+127		Archana Kalathiya	Amdocs 	CST
+128		Tanvee Joshi	Amdocs 	CST
+129		Gayatri Patil	Amdocs 	CST
+130		Shivani Sharma	Amdocs 	CST
+131		Sakshi Pandharipande	Amdocs 	CST
+132		Karina Khambe	Amdocs 	CST
+Sr.No	Name of Student	Organization Placed in	Branch
+133		Aayushi Pandit	Amdocs 	CE
+134		Shruti Anandas	Amdocs 	IT
+135		Rituja Khedkar	Amdocs 	CE
+136		Simran Tatkare	Amdocs 	CE
+137		Komal Kamble	Amdocs 	IT
+138		Devika Parab	Amdocs 	IT
+139		Arti Bhandari	Capgemini	IT
+140		Suhasini Sharma	Capgemini	DS
+141		Kambampati Preethika	Capgemini	CE
+142		Pranavi Kurkure	Capgemini	CST
+143		Swara Vidyesh Bhoir	Capgemini	CE
+144		Vaishnavi Vishwas Kadam	Capgemini	CST
+145		Simran Santosh Gupta	Capgemini	CST
+146		Bhagyashree Vasudev Patil	Capgemini	CE
+147		Nidhi Mavji Ravariya	Capgemini	DS
+148		Shruti Ajit Sakpal	Capgemini	DS
+149		Kshitija Arun Karande	Capgemini	IT
+150		Trupti Balkrushna Raje	Capgemini	CE
+151		Tanvi Amol Dhopavkar	Capgemini	IT
+152		Pragati Bhaskar Nawadkar	Capgemini	CST
+153		Neha Madanlal Gupta	Capgemini	CST
+154		Shweta Vilas Bandagale	Capgemini	CST
+155		Sayali Jalindar Chavan	Capgemini	CST
+156		Sakshi Rajan Khanvilkar	Capgemini	IT
+157		Sanjana Pedasangi	Capgemini	CST
+158		Mhatre Priti Kishore Kirti	Colgate Palmolive PPO	DS
+159		Dixita Kothari	Rite Technologies	IT
+160		Isha Thakur	JP Morgan Chase & Co. Internship	CE
+161		Aayushi Pandit	GE Aerospace Internship	CE
+162		Krithika Saravanan	GE Aerospace Internship	CST
+163		Padiyar Ramsha Shahid	GE Aerospace Internship	IT
+164		Samruddhi Satishchandra Bagave	Colgate Palmolive Internship	CST
+165		Neha Madanlal Gupta	Colgate Palmolive Internship	CST
+166		Suraksha Khurana	Colgate Palmolive Internship	CST
+167		Prajapati Vidhi Kiran Rashmi	Colgate Palmolive Internship	CE
+168		Gowda Rakshita Nagraj Rekha	Colgate Palmolive Internship	ENC
+169		Singh Priti Yamuna	Colgate Palmolive Internship	IT
+170		Tanya Bhatia	Colgate Palmolive Internship	CE
+171		Sonawane Aditi Prashant	Colgate Palmolive Internship	CE
+172		Mrunal Rajiv Chavan	Colgate Palmolive Internship	DS
+173		Dwivedi Bhakti Dwaipayan	Colgate Palmolive Internship	CST
+174		Simran Santosh Gupta	Colgate Palmolive Internship	CST
+175		Mhatre Priti Kishore Kirti	Colgate Palmolive Internship	DS
+176		Sanskruti Avinash Pagare	Colgate Palmolive Internship	IT
+177		Khadtale Sakshi Pravin	Colgate Palmolive Internship	CST
+178		Patil Lekha Avinash	Colgate Palmolive Internship	IT
+179		Sinha Rhea Rajesh Roli	Colgate Palmolive Internship	IT
+180		Shaikh Mahek Sajid	Colgate Palmolive Internship	IT
+Sr.No	Name of Student	Organization Placed in	Branch
+181		Arti Dhamsingh Bhandari	Colgate Palmolive Internship	IT
+182		Ghodke Nikita Shankar	Colgate Palmolive Internship	ENC
+183		Tanvi Mantri 	KPMG (Internship + PPO )	CST
+184		Shweta Bhalla 	KPMG (Internship + PPO )	ENC
+185		Isha Lal	KPMG (Internship + PPO )	CE
+186		Jahnvi Kamble	KPMG (Internship + PPO )	CST
+187		Payal Gupta	KPMG (Internship + PPO )	DS
+188		Chinmai Rane	KPMG (Internship + PPO )	DS
+189		Rutuja Dighe	KPMG (Internship + PPO )	IT
+190		Neha Madanlal Gupta	Veritas(Internship+ FTO)	CST
+191		Aarti C Tanawade	Siemens Internship 	ENC
+192		Prerna Kharate	Siemens Internship 	ENC
+193		Sakshi Gandage	NVIDIA Internship	CE
+194		Kirtee Shree Sinha	NVIDIA Internship	IT
+195		Shivani Mishra	NVIDIA Internship	CST
+196		Meghana Peethambaran	NVIDIA Internship	IT
+197		Vibha Nambiar	KPMG Internship Drive - II	CE
+198		Devika Parab	KPMG Internship Drive - II	IT
+199		Anuja Kokate	NVIDIA Internship Drive - II	CE
+

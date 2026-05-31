@@ -1,0 +1,778 @@
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+(umit.ac.in) 
+SNDT Women's University 
+(Sndt.digitaluniversity.ac) 
+Syllabus B. Tech.Data Science 
+KONTEA 
+Credit Definition 
+Estb. 1916 
+SNOT WOMEN'S UNIVERSITY ITS THACKERMY VORAV 
+SNDT Women's University 1, Nathibai Thackersey Road, 
+Mumbai 400 020 
+(Applicable to students taking admission in and after 2019) 
+1 Hr. Lecture (L) per week 
+1 credit 
+1 Hr. Tutorial (T) per week 
+1 credit 
+1 Hr. Practical (P) per week 
+0.5 credits 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty Technology (Undergraduate Course) -BTech 
+2 Hours Practical(Lab)/week 
+1 credit 
+Proposed in Jan 
+2020 
+Course code and Definition: 
+Course Code 
+L 
+T 
+Р 
+D 
+TP 
+TW 
+P/V 
+BSC 
+ESC 
+HSMC 
+PCC 
+PEC 
+OEC 
+LC 
+MC 
+PROJ 
+Definitions 
+Lecture 
+Tutorial 
+Practical 
+Duration of Paper 
+Term Paper 
+Term Work 
+Practical/Viva 
+Basic Science Courses 
+Engineering Science Courses 
+Humanities and Social Sciences including 
+Management courses 
+Professional core courses 
+Professional Elective courses 
+Open Elective courses 
+Laboratory course 
+Mandatory courses 
+Project 
+Semester I 
+USHA MITTAL INSTITUTE OF TECHNOLOGY SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+Category and Course 
+Course Title 
+Code 
+LTP 
+Hours Per Week 
+Cr Ꭰ TP 
+TW P/V Total 
+Basic Science course (BSC101) 
+Applied Science (Physics and Chemistry) 
+3 
+1 
+4.0 2.5 75 25 
+100 
+Mathematics -I 
+3 
+1 
+4.0 
+2.5 
+75 25 
+100 
+Engineering Science 
+Basic Science course (BSC103) 
+Engineering Science Courses (ESC101) 
+Courses(ESC102) 
+Basic Electrical Engineering 
+3 
+1 
+- 
+4.0 
+2.5 
+75 
+25 
+100 
+Engineering Graphics & 
+1 
+1.0 1.0 
+25 
+25 
+Design 
+Applied Science Lab 
+Basic Electrical 
+3 
+1.5 
+2 
+1.0 
+- 
+25 
+25 25 
+— 
+50 
+50 
+PV 25 
+PV 
+Engineering Lab 
+Engineering Graphics & 
+4 
+2.0 
+25 
+25 
+V 
+50 
+50 
+Design Lab 
+Mandatory Course 
+Induction programme 
+- 
+3 weeks no credits 
+Total 
+10 
+3 
+9 
+17.5 
+450 
+Semester II 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+Category and Course 
+Code 
+Course Title 
+Hours Per Week 
+Cr 
+Ꭰ 
+TP 
+TWP/V Total 
+L 
+T P 
+Basic Science courses Applied Science (Physics 
+3 
+1 
+4.0 
+2.5 
+75 
+25 
+100 
+(BSC 102) 
+and Chemistry) 
+Basic Science course 
+Mathematics -II 
+3 
+1 
+4.0 
+2.5 75 
+25 
+100 
+(BSC104) 
+Engineering Science 
+Programming for Problem 
+3 
+3.0 
+2.5 75 
+25 
+100 
+Courses(ESC103) 
+Solving 
+Engineering Science 
+Workshop/Manufacturing 
+1 
+1.0 
+1.0 25 
+25 
+Courses(ESC104) 
+Practices 
+Humanities and 
+English 
+2 
+2.0 
+1.0 
+40 
+10 
+50 
+Social 
+Sciences including 
+Management courses 
+(HSMC101) 
+Applied Science Lab 
+3 
+1.5 
+25 
+25 
+PV 50 
+Programming for Problem 
+4 
+2.0 
+25 
+25 
+PV 50 
+Solving Lab 
+Workshop/Manufacturing 
+4 
+2.0 
+25 
+25 
+PV 50 
+Practices Lab 
+English Practical 
+2 
+1.0 
+01 
+- 
+- 
+25 
+- 
+25 
+Mandatory Course 
+Environmental Sciences 
+2 
+- 
+0 
+2.0 50 
+- 
+Total 
+14 
+2 
+13 
+20.5 
+50 
+600 
+*Environmental Sciences is a mandatory credit less course in which the students will be required to get passing marks in the main exam 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+SCHEME: Semester III 
+Category and Code 
+Course title 
+Hours per Week 
+Cr 
+Ꭰ 
+TP 
+T 
+P/ 
+Total 
+W V 
+L 
+T 
+Р 
+Engineering 
+Analog and Digital 
+3 
+0 
+3 
+Science Course 
+2.5 75 
+25 
+100 
+Electronics 
+ESC 301 Professional 
+Core Courses 
+Data structure & 
+3 
+0 
+3 
+2.5 
+Algorithms 
+25 
+25 
+75 
+100 
+PCC-CS 301 
+Professional 
+Introduction to Data 
+3 
+0 
+25 
+3 
+2.5 
+75 
+100 
+Core Courses 
+Science 
+ESC 302 
+Basic Science 
+course BSC 301 
+Mathematics-III 
+2 
+0 
+0 
+2 
+1.5 
+50 
+(Probability and 
+50 
+50 
+Statistics) 
+Humanities for 
+social science 
+Economics for 
+2 
+0 
+0 
+2 
+1.5 
+Engineers 
+50 0 
+50 
+Data Structure and 
+4 
+2 
+25 25 
+PV 
+50 
+Algorithms Lab 
+Analog and Digital 
+4 
+25 25 
+2 
+- 
+PV 
+50 
+Electronics Lab 
+Data Science Lab 
+4 
+2 
+25 25 
+PV 
+50 
+using Python 
+Total 
+13 
+0 
+12 19 
+550 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Proposed in Jan 
+2020 
+SCHEME: Semester IV 
+Category and Code 
+Course title 
+Hours per Week Cr D 
+TP T P/ 
+Total 
+W V 
+L 
+T Р 
+Professional Core 
+Discrete 
+3 
+1 
+0 
+4 
+2 
+Courses PCC- 
+CS401 
+Mathematics 
+75 
+7 
+5 
+.5 
+Professional 
+Design and 
+3 
+0 
+3 
+2 
+Core Courses 
+Analysis of 
+PCC- CS404 
+Algorithm 
+5 
+Professional Core 
+Database 
+3 
+0 
+3 
+2 
+Courses PCC- 
+Management 
+CS403 
+Professional Course 
+.5 
+Data Mining 
+3 
+0 
+3 
+2 
+75 
+5 
+75 
+5 
+75 
+5 
+25 
+25 
+25 
+25 
+.5 
+5 
+Basic science course 
+Biology for engineers 
+3 
+0 
+0 
+3 
+2.5 
+75 
+25 
+100 
+Mandatory Course 
+100 
+100 
+100 
+100 
+Constitution of 
+0 
+25 
+2 
+25 
+2 
+50 
+India 
+Database Management 
+4 
+25 
+25 
+PV 
+2 
+I 
+50 
+Lab 
+Design and Analysis of 
+4 
+25 
+25 PV 
+2 
+- 
+50 
+Algorithm lab 
+Data mining lab 
+4 
+25 25 PV 
+2 
+50 
+15 
+1 
+12 
+2 
+700 
+Total 
+2 
+NOTE: Subject "Constitution of India” is non credit subject, Passing is mandatory, A total of 
+16 hours needs to be completed. 
+Humanities Elective: $MOOC/ Swayam based course Certificate has to be provided by 
+individual students to get evaluated. 
+Credit Definition 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty Technology (Undergraduate Course) -BTech 
+(Applicable to students taking admission in and after 2019) 
+1 Hr. Lecture (L) per week 
+1 credit 
+1 Hr. Tutorial (T) per week 
+1 credit 
+1 Hr. Practical (P) per week 
+0.5 credits 
+2 Hours Practical(Lab)/week 
+1 credit 
+Range of credits - 
+Credits of 160-163 for a student to be eligible to get an Undergraduate degree in DATA SCIENCE. 
+Course code and Definition: 
+Course Code 
+L 
+T 
+P 
+D 
+TP 
+TW 
+P/V 
+BSC 
+ESC 
+HSMC 
+Definitions 
+Lecture 
+Tutorial 
+Practical 
+Duration of Paper 
+Term Paper 
+Term Work 
+Practical/Viva 
+Basic Science Courses 
+Engineering Science Courses 
+Humanities and Social Sciences including 
+PCC 
+PEC 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Management courses 
+Professional core courses 
+Professional Elective courses 
+OEC 
+Open Elective courses 
+LC 
+Laboratory course 
+MC 
+Mandatory courses 
+PROJ 
+Project 
+Non-credit subject Passing Mandatory. A total of 16 hours needs to be completed. 
+Humanities Elective: MOOC based courses have to be completed. Certificate has to be provided by 
+individual students to get evaluated. 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty Technology (Undergraduate Course) -BTech 
+SCHEME: Semester V 
+Category and Code 
+Course title 
+Hours per Week 
+Cr D 
+TP TW P/V 
+Total 
+LTP 
+Professional Core Courses PCC- CS501 
+Object Oriented 
+3 
+0 
+- 
+3 
+2.5 75 
+25 
+100 
+Programming 
+Professional Core Courses PCC- CS502 
+Data Network 
+3 
+0 
+0 
+3 
+2.5 
+75 
+25 
+100 
+Professional Core Courses 
+Professional 
+PCC- CS503 
+Elective courses 
+Humanities & Social Sciences including Management 
+courses 
+Professional Core Courses 
+PCC- CS504 
+Architecture for Data Processing 
+3 
+0 
+3 
+2.5 
+75 
+25 
+100 
+Elective-I (Machine Learning and Computing) 
+3 0 0 3 
+2.5 
+75 
+25 
+100 
+Humanities I(Effective Technical Communication) 
+3 003 
+2.5 
+75 
+25 
+25 
+100 
+Analysing, Visualizing and 3 
+300 3 
+2.5 
+75 25 
+100 
+Applying data science 
+Object Oriented 
+2 
+1 
+PV 
+25 
+25 
+Programming Lab 
+Data Network Lab 
+2 
+1 
+PV 
+25 
+25 
+Architecture for Data 
+2 
+1 
+PV 
+25 
+25 
+Processing Lab 
+Elective-I (Machine 
+2 
+1 
+PV 
+25 
+35 
+25 
+Learning with python) Lab 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Analysing, Visualizing and 
+2 
+1 
+Applying data science Lab 
+18 0 8 23 
+Total 
+PV 
+25 
+25 
+725 
+Semester VI 
+Category and Code 
+Course title 
+Hours per Week 
+Cr 
+Ꭰ 
+TP 
+TW 
+P/V 
+Total 
+L T Р 
+Engineering Science 
+Course ESC601 
+Professional Core Courses 
+PCC 
+Microprocessor and Microcontroller 
+3 0 0 3 
+2.5 
+75 
+25 
+100 
+Data visualization 
+Professional Core Courses 
+PCC 
+Software Engineering 
+3 0 
+3 
+0 
+— 
+3 
+2.5 
+75 
+25 
+25 
+100 
+I 
+3 
+2.5 
+75 
+25 
+100 
+Professional Elective courses Elective-II (Artificial 
+PEC 
+Intelligence) 
+Professional Elective courses Elective-III (Neural 
+PEC 
+Mandatory Course MC 
+Project 
+3003 
+2.5 
+75 
+25 
+100 
+3 00 
+3 
+2.5 75 25 
+100 
+Networks and Deep Learning) 
+Essence of Indian 
+Knowledge Tradition 
+Project-1 
+0 
+I 
+0 
+25 
+25 
+50 
+50 
+004 
+2 
+35 
+25 
+25 
+50 
+PV 
+Data visualization 
+2 
+1 
+25 
+25 
+Microprocessor and 
+PV 
+2 
+1 
+25 
+25 
+Microcontroller Lab 
+Course code 
+USHA MITTAL INSTITUTE OF TECHNOLOGY 
+SNDT Women's University 
+Faculty: Technology (Undergraduate Course) -BTech 
+Elective-II (Artificial 
+2 
+1 
+PV 
+25 
+25 
+Intelligence) Lab 
+PV 
+Elective-III (Neural 
+2 
+1 
+25 
+25 
+Networks and Deep 
+Learning) Lab 
+Total 
+15 
+12 21 
+Category 
+Course title 
+Core Course (CE) 
+Elective-I (Machine Learning and Computing) 
+Scheme and Credits 
+LT 
+Р 
+Credit 
+Semester V 
+3 
+0 
+2 
+4 
+700 
+Pre-requisites (if any) 
+Course Objective 
+Course Outcomes 
+The students will be able to 
+• Identify merits of machine learning algorithms and suggest 
+suitable algorithm for the application. 
+Learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself 
+To review and strengthen important mathematical concepts required for ML. 
+Introduce the concept of learning patterns from data and develop a strong theoretical foundation for understanding state of the art Machine Learning algorithms 
+At the end of this course students will demonstrate the ability to 
+• Design and implement machine learning solutions 
+regression and clustering problems. interpret 
+classification, Evaluate and 
+ML techniques. 
+to 
+the results of the different 

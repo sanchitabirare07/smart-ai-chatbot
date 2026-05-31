@@ -1,0 +1,54 @@
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women’s University, Mumbai
+
+List of Companies Visited for the 
+Academic Year 2024-25
+Sr.No	Name of the Company	No. of Students Placed
+1		Amdocs	7
+2		Arcon	1
+3		Barclays	9
+4		Bank of America	11
+5		Colgate	1
+6		Cognizant	1
+7		Deloitte IN (PDI)	11
+8		Deloitte IN (ADMM)	10
+9		Deloitte IN (HRT)	2
+10		Deloitte IN (SAP)	6
+11		Deloitte USI	14
+12		Deutsche Bank	5
+13		HSBC	5
+14		Infogain	5
+15		Infosys	13
+16		KPMG IN (FRM Role)	4
+17		KPMG IN (DPT Role)	6
+18		Oracle	3
+19		Verizon	1
+     20	Viza	4
+
+Sr.No	Name of the Company (Internship)	No. of Students (Internship)
+1		ARM	2
+2		Colgate	13
+3		Colgate – Global Business Service	2
+4		Deloitte IN (PDI)	10
+5		Deloitte IN (ADMM)	10
+6		Deloitte IN (HRT)	2
+7		Deloitte IN (SAP)	6
+8		GE Aerospace	2
+9		IDFy	6
+10		KPMG IN (DPT Role)	6
+11		KPMG IN (FRM Role)	4
+12		Verizon	1
+
+
+
+
+
+
+
+
+
+
+
+
+
+

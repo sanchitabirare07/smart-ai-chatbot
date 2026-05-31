@@ -1,0 +1,542 @@
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+(umit.ac.in)
+SNDT Women‟s University
+(Sndt.digitaluniversity.ac)
+Syllabus B. Tech. Computer Engineering
+SNDT Women‟s University
+1, Nathibai Thackersey Road,
+Mumbai 400 020
+(Applicable to students taking admission in and after 2019)
+Credit Definition
+1 Hr. Lecture (L) per week 1 credit
+1 Hr. Tutorial (T) per week 1 credit
+1 Hr. Practical (P) per week 0.5 credits
+2 Hours Practical(Lab)/week 1 credit
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+Course code and Definition:
+Course Code Definitions
+L Lecture
+T Tutorial
+P Practical
+D Duration of Paper
+TP Term Paper
+TW Term Work
+P/V Practical/Viva
+BSC Basic Science Courses
+ESC Engineering Science Courses
+HSMC Humanities and Social Sciences including
+Management courses
+PCC Professional core courses
+PEC Professional Elective courses
+OEC Open Elective courses
+LC Laboratory course
+MC Mandatory courses
+PROJ Project
+Range of credits –
+● Credits of 160-163 for a student to be eligible to get an Undergraduate degree in Computer
+Engineering (CE).
+● A student will be eligible to get an Undergraduate degree with Minor Engineering, if she
+completes an additional 18-20 credits. These could be acquired through MOOCs offered at
+Institutes or approved by the department designed internally or with other agencies in the
+Institute.
+Non-credit subject Passing Mandatory. A total of 16 hours needs to be completed.
+Humanities Elective: MOOC based courses have to be completed. Certificate has to be provided by
+individual students to get evaluated.
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+Minor Degree Course
+Students can choose from
+Minor Degree in Blockchain
+Minor Degree in Cyber Security
+Minor Degree in Internet of Things (IoT)
+Minor Degree in Robotics
+Minor Degree in Virtual and Augmented Reality
+Minor Degree in Data Science
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+Semester I
+Category and
+Course Code
+Course Title
+Hours Per
+Week Cr D TP TW P/V Total
+L T P
+Basic Science course
+(BSC101)
+Applied Science (Physics and
+Chemistry)
+3 1 - 4.0 2.5 75 25 100
+Basic Science course
+(BSC103)
+Mathematics –I 3 1 - 4.0 2.5 75 25 100
+Engineering Science
+Courses(ESC101)
+Basic Electrical Engineering 3 1 - 4.0 2.5 75 25 100
+Engineering Science
+Courses(ESC102)
+Engineering Graphics &
+Design
+1 - - 1.0 1.0 25 - 25
+Applied Science Lab 3 1.5 - 25 25 PV 50
+Basic Electrical Engineering
+Lab
+2 1.0 - 25 - PV 25
+Engineering Graphics &
+Design Lab
+- - 4 2.0 - 25 25 V 50
+Mandatory Course Induction programme 3 weeks - no credits
+Total 10 3 9 17.5 450
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+Semester II
+Category and
+Course Code Course Title
+Hours Per
+Week Cr D TP TW P/V Tota
+l
+L T P
+Basic Science courses
+(BSC 102)
+Applied Science (Physics and
+Chemistry)
+3 1 - 4.0 2.5 75 25 100
+Basic Science course
+(BSC104)
+Mathematics –II 3 1 - 4.0 2.5 75 25 100
+Engineering Science
+Courses(ESC103)
+Programming for Problem
+Solving
+3 - - 3.0 2.5 75 25 100
+Engineering Science
+Courses(ESC104)
+Workshop/Manufacturing
+Practices
+1 - - 1.0 1.0 25 - 25
+Humanities and Social
+Sciences including
+Management courses
+(HSMC101)
+English 2 - - 2.0 1.0 40 10 50
+Applied Science Lab 3 1.5 - 25 25 PV 50
+Programming for Problem
+Solving Lab
+4 2.0 - 25 25 PV 50
+Workshop/Manufacturing
+Practices Lab
+4 2.0 25 25 PV 50
+English Practical 2 1.0 - - 25 - 25
+Mandatory Course Environmental Sciences 2 - - 0 2.0 50 - - 50
+Total 14 2 13 20.5 600
+*Environmental Sciences is a mandatory credit less course in which the students will be
+required to get passing marks in the main exam
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+SCHEME: Semester III
+Category and Code Course title Hours per
+Week
+Cr D TP T
+W
+P/V Total
+L T P
+Engineering Science
+Course ESC 301
+Analog Electronic Circuits 3 0 - 3 2.5 75 25 100
+Professional
+Core Courses
+PCC-CS 301
+Data structure &
+Algorithms
+3 0 -
+3 2.5 75 25 100
+Professional
+Core Courses
+ESC 302
+Digital
+Electronics
+3 0 -
+3 2.5 75 25 100
+Basic Science course
+BSC 301
+Mathematics-III
+(Probability and Statistics)
+2 0 0
+2 1.5 50 0
+50
+Analog Electronic Circuits
+Lab
+4
+2 -
+25 25 PV 50
+Data structure &
+Algorithms Lab
+4
+2 -
+25 25 PV 50
+Digital
+Electronics Lab
+4
+2 -
+25 25 PV 50
+IT Workshop (Sci
+Lab/MATLAB) Lab
+4
+2 -
+25 25 PV 50
+Total 11 0 16 19 550
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+SCHEME: Semester IV
+Category and Code Course title Hours per
+Week
+C
+r
+D TP TW P/V Total
+L T P
+Professional Core Courses
+PCC- CS401
+Discrete Mathematics 3 1 0 4 2.5 75 25 100
+Engineering Science
+Course PCC-CS 402
+Computer Organization &
+Architecture
+3 0 - 3 2.5 75 25 100
+Professional Core Courses
+PCC- CS403
+Operating Systems 3 0 - 3 2.5 75 25 100
+Professional Core Courses
+PCC- CS404
+Design & Analysis of
+Algorithms
+3 0 - 3 2.5 75 25 100
+Humanities & Social
+Sciences including
+Management courses
+HSMC 401
+Management 1 ( Finance &
+Accounting)
+3 0 0 3 2.5 75 25 100
+Mandatory
+Courses MC
+Constitution of India - - - 0 - 25 25 50
+Computer Organization &
+Architecture Lab
+4 2 -
+25 25 PV 50
+Operating Systems Lab 4 2 -
+25 25 PV 50
+Design & Analysis of
+Algorithms Lab
+4 2 -
+25 25 PV 50
+Total 15 1 12 22 700
+NOTE: Subject “Constitution of India” is non credit subject, Passing is mandatory, A total of 16
+hours needs to be completed.
+Humanities Elective: $MOOC/ Swayam based course Certificate has to be provided by
+individual students to get evaluated.
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+SCHEME: Semester V
+Category and Code Course title Hours per
+Week
+Cr D TP TW P/V Total
+L T P
+Professional Core Courses
+PCC- CS501
+Database Management
+Systems
+3 0 - 3 2.5 75 25 100
+Professional Core Courses
+PCC- CS502
+Formal Language &
+Automata Theory
+3 0 0 3 2.5 75 25 100
+Professional Core Courses
+PCC- CS503
+Object Oriented
+Programming
+3 0 - 3 2.5 75 25 100
+Professional
+Elective courses
+Elective-I (Machine
+Learning & Computing)
+3 0 0 3 2.5 75 25 100
+Humanities &Social Sciences
+including Management
+courses
+Humanities I (Effective
+Technical Communication)
+3 0 0 3 2.5 75 25 100
+Open Elective courses OEC Open Elective-I
+(Software Engineering
+)
+3 0 0 3 2.5 75 25 100
+Database Management
+Systems Lab
+2 1 - 25 25
+Object Oriented
+Programming Lab
+2 1 - 25 25
+Elective-I (Machine
+Learning &Computing) Lab
+2 1 - 25 25
+Open Elective-I Lab 2 1 - 25 25
+Total 18 0 8 22 700
+Non-credit subject Passing Mandatory. A total of 16 hours needs to be completed.
+Humanities Elective: MOOC based courses have to be completed. Certificate has to be provided by individual
+students to get evaluated.
+Minor Degree Course:Students can choose from
+Minor Degree in Blockchain
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+Minor Degree in Cyber Security
+Minor Degree in Internet of Things (IoT)
+Minor Degree in Robotics
+Minor Degree in Virtual and Augmented Reality
+Minor Degree in Data Science
+SCHEME: Semester VI
+Category and Code Course title Hours per
+Week
+Cr D TP TW P/V Total
+L T P
+Engineering Science
+Course ESC601
+Microprocessor and
+Microcontroller
+3 0 0 3 2.5 75 25 100
+Professional Core Courses
+PCC
+Complier Design 3 0 - 3 2.5 75 25 100
+Professional Core Courses
+PCC
+Computer Networks 3 0 - 3 2.5 75 25 100
+Professional Elective courses
+PEC
+Elective-II (Artificial
+Intelligence)
+3 0 0 3 2.5 75 25 100
+Professional Elective courses
+PEC
+Elective-III (Neural
+Networks and Deep
+Learning)
+3 0 0 3 2.5 75 25 100
+Mandatory
+Courses MC
+Essence and Importance of
+Indian Knowledge
+Tradition
+0 - - 0 - - 25 25 50
+Project Project-1 0 0 4 2 - - 25 25 50
+Complier Design Lab 2 1 - 25 25
+Computer Networks Lab 2 1 - 25 25
+Elective-II (Artificial
+Intelligence) Lab
+2 1 - 25 25
+Elective-III (Neural
+Networks and Deep
+Learning) Lab
+2 1 - 25 25
+Total 15 12 21 700
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+Non-credit subject Passing Mandatory. A total of 16 hours needs to be completed.
+Humanities Elective: MOOC based courses have to be completed. Certificate has to be provided by individual
+students to get evaluated.
+Minor Degree Course
+Students can choose from
+Minor Degree in Blockchain
+Minor Degree in Cyber Security
+Minor Degree in Internet of Things (IoT)
+Minor Degree in Robotics
+Minor Degree in Virtual and Augmented Reality
+Minor Degree in Data Science
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+SCHEME: Semester VII
+Category and Code Course title Hours per
+Week
+Cr D TP TW P/V Total
+L T P
+Professional Elective
+courses PEC
+Elective-IV (Cryptography
+and Network Security)
+3 0 - 3 2.5 75 25 100
+Professional Elective
+courses PEC
+Elective-V (Cloud
+Computing)
+3 0 - 3 2.5 75 25 100
+Professional Elective
+courses PEC
+Elective-VI (Computational
+Data analytics )
+3 0 0 3 2.5 75 25 100
+Professional Core Courses
+PCC
+Natural Language Processing 3 0 0 3 2.5 75 25 100
+Project Project-II 0 0 8 4 - - 50 50 100
+Elective-IV (Cryptography
+and Network Security)
+Lab
+2 1 - 25 25
+Elective-V (Cloud
+Computing) Lab
+2 1 - 25 25
+Elective-VI ( Data
+analytics
+Lab )
+2 1 - 25 25
+Natural Language
+Processing Lab
+2 1 25 25
+Total 12 0 16 20 600
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+SCHEME: Semester VIII
+Category and Code Course title Hours per
+Week
+Cr D TP TW P
+/
+V
+Total
+L T P
+Internship - - - 4 0 0 50 50 100
+Open Elective courses OEC Open Elective-II
+(Fundamentals of
+Bitcoins and
+cryptocurrencies )
+- - - 0 0 0 25 25 50
+Project Project-III - - 32 16 - - 200 200 400
+- - - -
+Total 0 0 32 20 550
+● Under Internship, the Student should pursue an internship program of minimum 4 weeks with
+a company ,expected contact hours in industry 160 to 180hrs.
+● The students undergoing such a program include compulsory industrial training of 4 credits,
+by the end of the eighth semester.
+● Internships can be in offline or online mode.
+● Every student is required to prepare a file containing documentary proofs of the activities
+done by her in an industry.
+● Weekly progress report should be mailed to faculty mentor and industry supervisor.
+● The student will have to submit the internship joining letter, daily attendance record , a
+detailed report and presentation and completion certificate from industry
+● Students should maintain handwritten internship dairy(include daily attendance and daily
+progress report) signed by industry supervisor.
+● Students undergo industrial training at the concerned Industry / Organization. In-between
+Faculty Member(s) evaluate(s) the performance of students once/twice and Evaluation
+Report of the students is submitted in the department with the consent of Industry
+persons/Trainers.
+USHA MITTAL INSTITUTE OF TECHNOLOGY
+SNDT Women‟s University
+Faculty : Technology (Undergraduate Course) -BTech
+Proposed
+from Jan
+2020
+● Internship can be extended for PROJECT III with permission from the institute.
+● Internship evaluation and Project III evaluation are separate .
+● Non-credit subject Passing Mandatory. A total of 16 contact hours needs to be completed.
+● Non Credit course, Report of outcome based case studies will be evaluated as continuous assessment
+Elective I Elective II Elective III Elective IV Elective V Elective
+VI
+Machine
+Learning &
+Computing
+Artificial
+Intelligence
+Neural
+network and
+Deep learning
+Cryptographic
+and network
+Security
+Cloud
+Computing
+Computati
+onal Data
+Analytics
+Image and
+Video
+Processing
+Web Data
+Mining
+Human
+computer
+interaction
+Object oriented
+modelling and
+design
+Parallel and
+distributed
+algorithm
+Advanced
+Computer
+Architectu
+re
+Information
+Theory and
+Coding
+Multi-agent
+Intelligent
+Optimization
+Techniques
+Quantum
+Computing
+High
+Performance
+Computing
+Intellectua
+l Property
+rights
+Open Elective-I Open Elective-II
+Software Engineering Fundamentals of Bitcoins and
+cryptocurrencies
+Introduction to
+Philosophical
+Thoughts
+Cyber Law and Ethics
