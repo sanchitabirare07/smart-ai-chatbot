@@ -60,12 +60,29 @@ class RAGPipeline:
         finally:
             os.unlink(tmp_path)
 
-    def build_from_uploads(self, uploaded_files) -> None:
+    def build_from_directory(self, directory: str) -> None:
+        import glob
         all_docs = []
-        for f in uploaded_files:
-            all_docs.extend(self._load_uploaded_file(f))
+        txt_files = glob.glob(f"{directory}/*.txt")
+        pdf_files = glob.glob(f"{directory}/*.pdf")
+        
+        for filepath in txt_files:
+            loader = TextLoader(filepath, encoding="utf-8")
+            docs = loader.load()
+            for doc in docs:
+                doc.metadata["source"] = os.path.basename(filepath)
+            all_docs.extend(docs)
+            
+        for filepath in pdf_files:
+            loader = PyPDFLoader(filepath)
+            docs = loader.load()
+            for doc in docs:
+                doc.metadata["source"] = os.path.basename(filepath)
+            all_docs.extend(docs)
+            
         if not all_docs:
-            raise ValueError("No documents could be loaded.")
+            raise ValueError("No documents found in directory.")
+            
         chunks = self.splitter.split_documents(all_docs)
         self.vectorstore = FAISS.from_documents(chunks, self.embeddings)
         self._build_chain()
