@@ -123,6 +123,26 @@ if "rag" not in st.session_state:
 if "docs_loaded" not in st.session_state:
     st.session_state.docs_loaded = False
 
+# ─── Auto Load Knowledge Base ─────────────────────────────────────────────────
+if not st.session_state.docs_loaded:
+    auto_key = os.getenv("GROQ_API_KEY", "")
+    if auto_key:
+        try:
+            import glob
+            files = glob.glob("data/*.txt") + glob.glob("data/*.pdf")
+            if files:
+                with st.spinner("Loading knowledge base..."):
+                    rag = RAGPipeline(
+                        api_key=auto_key,
+                        provider="groq",
+                        model_name="llama-3.1-8b-instant"
+                    )
+                    rag.build_from_directory("data")
+                    st.session_state.rag = rag
+                    st.session_state.docs_loaded = True
+        except Exception as e:
+            pass
+        
 # ─── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## ⚙️ Configuration")
