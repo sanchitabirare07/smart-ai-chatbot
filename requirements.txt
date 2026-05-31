@@ -1,26 +1,15 @@
-# ─── Core Framework ───────────────────────────────────────────────────────────
 streamlit>=1.35.0
-
-# ─── LangChain ────────────────────────────────────────────────────────────────
 langchain>=0.2.0
 langchain-community>=0.2.0
 langchain-core>=0.2.0
-
-# ─── LLM Providers ────────────────────────────────────────────────────────────
-langchain-openai>=0.1.0          # OpenAI / GPT models
-langchain-google-genai>=1.0.0    # Google Gemini models
-
-# ─── Vector Store ─────────────────────────────────────────────────────────────
-faiss-cpu>=1.7.4                 # FAISS (CPU version); use faiss-gpu if CUDA available
-
-# ─── Document Loaders ─────────────────────────────────────────────────────────
-pypdf>=4.0.0                     # PDF loading
-unstructured>=0.14.0             # General document parsing (optional but useful)
-
-# ─── Embeddings & ML ──────────────────────────────────────────────────────────
+langchain-openai>=0.1.0
+langchain-google-genai>=1.0.0
+langchain-groq>=0.1.0
+langchain-text-splitters>=0.2.0
+faiss-cpu>=1.7.4
+pypdf>=4.0.0
 openai>=1.30.0
 google-generativeai>=0.7.0
-
-# ─── Utilities ────────────────────────────────────────────────────────────────
-python-dotenv>=1.0.0             # .env file support
-tiktoken>=0.7.0                  # Token counting (OpenAI)
+python-dotenv>=1.0.0
+tiktoken>=0.7.0
+sentence-transformers>=2.2.0
