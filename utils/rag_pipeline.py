@@ -61,32 +61,27 @@ class RAGPipeline:
             os.unlink(tmp_path)
 
     def build_from_directory(self, directory: str) -> None:
-        import glob
-        all_docs = []
-        txt_files = glob.glob(f"{directory}/*.txt")
-        pdf_files = glob.glob(f"{directory}/*.pdf")
-        
-        for filepath in txt_files:
-            loader = TextLoader(filepath, encoding="utf-8")
+    import glob
+    all_docs = []
+    files = glob.glob(f"{directory}/*.txt") + glob.glob(f"{directory}/*.pdf")
+    for filepath in files:
+        suffix = os.path.splitext(filepath)[-1].lower()
+        try:
+            if suffix == ".pdf":
+                loader = PyPDFLoader(filepath)
+            else:
+                loader = TextLoader(filepath, encoding="utf-8")
             docs = loader.load()
             for doc in docs:
                 doc.metadata["source"] = os.path.basename(filepath)
             all_docs.extend(docs)
-            
-        for filepath in pdf_files:
-            loader = PyPDFLoader(filepath)
-            docs = loader.load()
-            for doc in docs:
-                doc.metadata["source"] = os.path.basename(filepath)
-            all_docs.extend(docs)
-            
-        if not all_docs:
-            raise ValueError("No documents found in directory.")
-            
-        chunks = self.splitter.split_documents(all_docs)
-        self.vectorstore = FAISS.from_documents(chunks, self.embeddings)
-        self._build_chain()
-
+        except Exception as e:
+            print(f"Could not load {filepath}: {e}")
+    if not all_docs:
+        raise ValueError("No documents found in data folder.")
+    chunks = self.splitter.split_documents(all_docs)
+    self.vectorstore = FAISS.from_documents(chunks, self.embeddings)
+    self._build_chain()
     def _build_chain(self) -> None:
         self.retriever = self.vectorstore.as_retriever(
             search_type="similarity",
