@@ -114,7 +114,6 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-
 # ─── Session State ─────────────────────────────────────────────────────────────
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = ChatHistory()
@@ -125,24 +124,25 @@ if "docs_loaded" not in st.session_state:
 
 # ─── Auto Load Knowledge Base ─────────────────────────────────────────────────
 if not st.session_state.docs_loaded:
-    auto_key = os.getenv("GROQ_API_KEY", "")
-    if auto_key:
-        try:
-            import glob
-            files = glob.glob("data/*.txt") + glob.glob("data/*.pdf")
-            if files:
-                with st.spinner("Loading knowledge base..."):
-                    rag = RAGPipeline(
-                        api_key=auto_key,
+    auto_api_key = os.getenv("GROQ_API_KEY", "")
+    if auto_api_key and os.path.exists("data"):
+        import glob
+        files = glob.glob("data/*.txt") + glob.glob("data/*.pdf")
+        if files:
+            with st.spinner("Loading knowledge base..."):
+                try:
+                    auto_rag = RAGPipeline(
+                        api_key=auto_api_key,
                         provider="groq",
-                        model_name="llama-3.1-8b-instant"
+                        chunk_size=500,
+                        top_k=3
                     )
-                    rag.build_from_directory("data")
-                    st.session_state.rag = rag
+                    auto_rag.build_from_directory("data")
+                    st.session_state.rag = auto_rag
                     st.session_state.docs_loaded = True
-        except Exception as e:
-            pass
-        
+                except Exception as e:
+                    st.warning(f"Could not auto-load: {e}")
+       
 # ─── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("## ⚙️ Configuration")
