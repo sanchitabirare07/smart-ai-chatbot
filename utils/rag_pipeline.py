@@ -1,5 +1,6 @@
 from __future__ import annotations
 import os
+import glob
 import tempfile
 from typing import Any
 
@@ -60,28 +61,38 @@ class RAGPipeline:
         finally:
             os.unlink(tmp_path)
 
+    def build_from_uploads(self, uploaded_files) -> None:
+        all_docs = []
+        for f in uploaded_files:
+            all_docs.extend(self._load_uploaded_file(f))
+        if not all_docs:
+            raise ValueError("No documents could be loaded.")
+        chunks = self.splitter.split_documents(all_docs)
+        self.vectorstore = FAISS.from_documents(chunks, self.embeddings)
+        self._build_chain()
+
     def build_from_directory(self, directory: str) -> None:
-    import glob
-    all_docs = []
-    files = glob.glob(f"{directory}/*.txt") + glob.glob(f"{directory}/*.pdf")
-    for filepath in files:
-        suffix = os.path.splitext(filepath)[-1].lower()
-        try:
-            if suffix == ".pdf":
-                loader = PyPDFLoader(filepath)
-            else:
-                loader = TextLoader(filepath, encoding="utf-8")
-            docs = loader.load()
-            for doc in docs:
-                doc.metadata["source"] = os.path.basename(filepath)
-            all_docs.extend(docs)
-        except Exception as e:
-            print(f"Could not load {filepath}: {e}")
-    if not all_docs:
-        raise ValueError("No documents found in data folder.")
-    chunks = self.splitter.split_documents(all_docs)
-    self.vectorstore = FAISS.from_documents(chunks, self.embeddings)
-    self._build_chain()
+        all_docs = []
+        files = glob.glob(f"{directory}/*.txt") + glob.glob(f"{directory}/*.pdf")
+        for filepath in files:
+            suffix = os.path.splitext(filepath)[-1].lower()
+            try:
+                if suffix == ".pdf":
+                    loader = PyPDFLoader(filepath)
+                else:
+                    loader = TextLoader(filepath, encoding="utf-8")
+                docs = loader.load()
+                for doc in docs:
+                    doc.metadata["source"] = os.path.basename(filepath)
+                all_docs.extend(docs)
+            except Exception as e:
+                print(f"Could not load {filepath}: {e}")
+        if not all_docs:
+            raise ValueError("No documents found in data folder.")
+        chunks = self.splitter.split_documents(all_docs)
+        self.vectorstore = FAISS.from_documents(chunks, self.embeddings)
+        self._build_chain()
+
     def _build_chain(self) -> None:
         self.retriever = self.vectorstore.as_retriever(
             search_type="similarity",
